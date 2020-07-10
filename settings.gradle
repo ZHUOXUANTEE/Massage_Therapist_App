@@ -1,0 +1,2 @@
+rootProject.name='Massage Therapist App'
+include ':app'
